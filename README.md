@@ -1,2 +1,5 @@
-# BrainFu-k-Interpretor
-A brainFuck  Interpretor I made in cpp
+# BrainFuck Interpreter
+
+So when i learn a language ill write an Interpreter for brainfuck in it
+
+
